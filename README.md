@@ -1,4 +1,3 @@
+An analysis of the 1994 USA census data on education and finances, highlighting key trends, patterns, and correlations. The data provides insights into relationship between educational attainment and financial outcomes, informing policy decisions and strategic planning.
 
-
-Applied Geophysicist | Data Analyst with solid foundations in BI, Math, Python and ML. Passionate about people, thriving and collaborating with tech buds, businesses and rowth-oriented folks.
-LinkedIn: https://tinyurl.com/23ees3zr
+Link: archive.ics.uci.edu/dataset/20/census+income
