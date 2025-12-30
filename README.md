@@ -1,4 +1,8 @@
+Welcome to Adefolarinwa Gade's portfolio
 
 
-Applied Geophysicist | Data Analyst with solid foundations in BI, Math, Python and ML. Passionate about people, thriving and collaborating with tech buds, businesses and rowth-oriented folks.
+About: Python programmer, data and business intelligence analyst, financial/AI enthusiast.
+
+
+Click on 'main' to visit other important branches such as data analytics, p2e development and python codes.
 LinkedIn: https://tinyurl.com/23ees3zr
